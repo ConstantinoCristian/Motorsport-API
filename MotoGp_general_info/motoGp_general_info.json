@@ -1,0 +1,67 @@
+{
+  "MotoGP": {
+    "general": {
+      "description": "MotoGP is the premier class of motorcycle road racing, organized by the Fédération Internationale de Motocyclisme (FIM). It features high-speed, multi-manufacturer racing on circuits worldwide.",
+      "governing_body": "Fédération Internationale de Motocyclisme(FIM)",
+      "founded": "1949",
+      "seasons_per_year": "Approximately 18-22 races per season"
+    },
+    "history": {
+      "origins": {
+        "first_race": "The inaugural MotoGP World Championship race was held in 1949 as part of the Isle of Man TT.",
+        "early_era": "Initially featured classes based on engine size, including 50cc, 125cc, 250cc, and 500cc."
+      },
+      "milestones": [
+        {
+          "year": 1949,
+          "event": "First MotoGP World Championship season."
+        },
+        {
+          "year": 2002,
+          "event": "Introduction of the MotoGP class, replacing the 500cc category with 990cc four-stroke engines."
+        },
+        {
+          "year": 2010,
+          "event": "Reduction of engine capacity to 800cc to enhance safety."
+        },
+        {
+          "year": 2012,
+          "event": "Return to 1000cc engines for the MotoGP class."
+        },
+        {
+          "year": 2019,
+          "event": "Introduction of MotoE, an electric motorcycle racing series."
+        }
+      ]
+    },
+    "motorcycles": {
+      "general": {
+        "description": "MotoGP motorcycles are high-performance, purpose-built racing machines that are not available for public sale, designed for maximum speed, agility, and cornering performance.",
+        "engine_specifications": "1000cc four-stroke engines",
+        "fuel": "Unleaded racing fuel with specific FIM regulations",
+        "weight": "Minimum of 157 kg"
+      },
+      "aerodynamics": {
+        "features": [
+          "Winglets to improve stability and reduce wheelies",
+          "Streamlined fairings for reduced drag",
+          "Underslung exhaust systems for improved weight distribution"
+        ]
+      },
+      "tires": {
+        "supplier": "Michelin",
+        "types": [
+          "Soft (for maximum grip at the cost of durability)",
+          "Medium (balanced performance)",
+          "Hard (for durability in hot conditions or abrasive surfaces)"
+        ]
+      },
+      "technology": {
+        "launch_control": "Assists riders in achieving optimal starts",
+        "traction_control": "Limits rear-wheel slip under acceleration",
+        "quick_shifter": "Enables seamless gear changes without using the clutch",
+        "ride_height_devices": "Adjusts the motorcycle's height dynamically for better performance"
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "MOTORSPORT_FACTS_FORMULA_1_CARS": [
+    "The onboard cameras on F1 cars are coloured differently to distinguish between two members of the same team (car liveries have to be the same across the team). The first car will have a black camera and the second a fluorescent yellow one.",
+    "In the pit lane, it is not permissible to use powered devices to lift the cars. All jacks, for example, must be manual.",
+    "Small planes are able to take off at slower speeds than F1 cars reach during a race.",
+    "An average household car revs up to 6,000 rpm (revolutions per minute), an F1 engine usually revs up to 18,000 rpm.",
+    "The average basic cost for an F1 car (without additional components and research) is 6.8M USD.",
+    "The front suspension of an F1 car can cope with up to 2 tonnes of pressure.",
+    "Once a race has finished, an F1 car's tyres will still be hot enough to cook an egg on (around 120° centigrade).",
+    "In theory, a Formula 1 car could drive upside down because it is capable of producing more downforce than its weight.",
+    "Formula 1 cars consist of at least 80,000 carefully assembled components.",
+    "A Formula 1 engine is so finely tuned that it can't be turned over when it is cold. Warm oil and water are pumped through them first to allow the metals to expand."
+  ],
+  "FORMULA_1_FACTS_DRIVERS": [
+    "Formula 1 cars have a minimum allowable weight (including the driver). If the driver leaves the car during the race they have to be weighed before getting back in.",
+    "F1 driver numbers are allocated by ballot and drivers keep that number for the whole of their race career unless they are the champion, in which case they may use number 1 for the subsequent season.",
+    "All drivers who wish to compete in F1 must have a FIA Super Licence.",
+    "On average, a Formula One driver loses 4 kilos of weight during a Grand Prix race.",
+    "Every entering F1 driver with the surname of 'Hill' has won a championship (Graham, Damon, and Phil).",
+    "The only female driver to ever score a point in Formula 1 was Lella Lombardi (Italian) who scored a half point by placing 6th in the Spanish Grand Prix in 1975.",
+    "After Ayrton Senna's fatal crash in 1994, staff found an Austrian flag in the Brazilian driver's car. He had intended to fly it after the race as a mark of respect for Roland Ratzenberger who had died following a crash during qualifying.",
+    "Because of the training required to deal with the g-forces involved in Formula 1 driving, F1 drivers tend to have disproportionately thick necks.",
+    "As in other sports, Formula 1 drivers are subject to random drugs tests.",
+    "Thirty-three different drivers have won the Formula 1 Championship with Michael Schumacher still holding the record for the most titles."
+  ],
+  "FORMULA_1_FACTS_CHAMPIONSHIPS": [
+    "The 'formula' in Formula 1 refers to a set of rules, which govern some aspects of the competition including, for example, tyres and race start procedures.",
+    "Queen Elizabeth II attended the very first Formula 1 race in 1950 with her father King George VI and sister Princess Margaret. She hasn't attended once since she has been queen.",
+    "The last Formula 1 fatality during a race was Ayrton Senna who died after his crash at San Marino in 1994 but Jules Bianchi died in 2015 from injuries sustained after a crash at the Japanese Grand Prix in October 2014.",
+    "The driver's championship was discussed as early as 1930 but the advent of the Second World War put plans on hold until 1950.",
+    "In 1950, there were only 7 races in a season. In 2017, there were 20.",
+    "The country with the most F1 Championship-winning drivers is the UK with 10 drivers.",
+    "Since the first Formula One Championship in 1950, 69 countries have hosted a Grand Prix.",
+    "For many years, Juan Manuel Fangio held the record for the most World Championship titles (1951, 1954, 1955, 1956, and 1957). Michael Schumacher took this record from him in 2003 when he won his 6th Championship.",
+    "The 1958 Formula 1 Championship experienced the most driver fatalities with four drivers losing their lives in track accidents.",
+    "In 1953, 34 cars lined up for the German Grand Prix, making it the busiest Formula One race ever."
+  ],
+  "FORMULA_1_FACTS_CIRCUITS": [
+    "Manhole covers have to be welded down before the Monaco Grand Prix because the downforce created by an F1 car has enough suction to pull them up.",
+    "The Italian circuit at Monza is particularly hard on F1 brakes. At the first corner, drivers take just 2 seconds to decrease speed from 200 mph to 60 mph.",
+    "Woodcote at Silverstone was historically the first corner ever tackled in a Formula One race.",
+    "The Marina Bay Street Circuit in Singapore is raced at night and has nearly 1,500 lighting projectors to project the light from 2,000-watt white metal halide lamps.",
+    "The Vas Marina Circuit in Abu Dhabi has the longest acceleration period of any F1 track in the world at 1,173 metres.",
+    "Formula One teams bring special downforce packages to the Monza track in Italy because it has such long straights and rapid deceleration.",
+    "The Bahrain International Circuit has numbers instead of the usual names for all of its corners except one. The Turn 1 hairpin was renamed after Michael Schumacher because he was the first person to win the Bahrain Grand Prix.",
+    "Monaco is the shortest Formula One circuit at only 3,340 kilometres. This means that it has the highest number of laps at 78.",
+    "Whilst most of today's Formula One circuits are between 4 and 6 kilometres long, in 1957 the Pescara track in Italy was 25.579 kilometres.",
+    "The Nurburgring track in Germany was built to help provide employment for workers in the area. It took 25,000 people from 1925 to 1927 to construct."
+  ],
+  "F1_STATS_ABOUT_SAFETY": [
+    "F1 helmets can stand flames of 800° centigrade for at least 45 seconds.",
+    "In 1977, David Purley recorded the biggest impact during an F1 crash. His car at the British Grand Prix took only 2 seconds to go from 108 mph to standstill. The estimated resulting g-force was 197.8 (everyday g-force is 1).",
+    "Every second, a Formula 1 car driving in the wet displaces 250 litres (or a bath full) of water.",
+    "F1 car chassis are made of extremely strong materials including Kevlar, metal, carbon fibre, and structures similar to honeycomb.",
+    "Most F1 car tyres are filled with nitrogen because it has a more consistent air pressure than normal air.",
+    "The maximum pit lane speed allowed is 80 kph for most circuits. At Monaco, it is 60 kph because the pit lane is so tight.",
+    "All F1 cars have a circuit breaker fitted inside the car so that in the event of a crash the driver can cut all of the main electrical circuits.",
+    "Drivers have to demonstrate the effectiveness of their car's two compulsory mirrors by reading number and letter boards at different distances behind the cockpit.",
+    "Should it be required, a safety car contains two people: an experienced circuit driver and an FIA observer who maintains contact with race control.",
+    "Mobile Formula 1 response teams include four salvage cars (rescue cutters and fire extinguishers) and two rescue cars."
+  ]
+}

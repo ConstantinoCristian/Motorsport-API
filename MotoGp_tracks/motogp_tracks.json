@@ -1,0 +1,200 @@
+{
+  "GP1": {
+      "location": "Thailand Buriram International Circuit",
+      "history": "The Buriram International Circuit, also known as Chang International Circuit, is a modern track that debuted in MotoGP in 2018.",
+      "record_holder": "Marc Márquez",
+      "record_time": "1:30.904",
+      "fun_fact": "It was the first MotoGP circuit in Thailand.",
+      "image_link": "https://photos.motogp.com/events-admin/5/e/5eb8c6ce-f16b-4be5-8aea-39ebaa3b18ba/info/tha-info.svg",
+      "length": "4.554 km"
+  },
+  "GP2": {
+      "location": "Argentina Termas de Río Hondo",
+      "history": "Termas de Río Hondo Circuit has hosted MotoGP since 2014 and is known for its fast layout.",
+      "record_holder": "Maverick Viñales",
+      "record_time": "1:39.019",
+      "fun_fact": "The circuit is situated near a hot springs area.",
+      "image_link": "https://photos.motogp.com/events-admin/a/1/a1d1e435-100f-4f10-8f16-7aa65d13b67d/info/arg-info.svg",
+      "length": "4.806 km"
+  },
+  "GP3": {
+      "location": "USA Circuit of the Americas",
+      "history": "Circuit of the Americas in Austin, Texas, joined the MotoGP calendar in 2013.",
+      "record_holder": "Marc Márquez",
+      "record_time": "2:02.135",
+      "fun_fact": "Known for its iconic 133-foot climb to the first corner.",
+      "image_link": "https://photos.motogp.com/events-admin/c/7/c7c0782e-67f2-4351-af96-6dd5835e8d42/info/ame-info.svg",
+      "length": "5.513 km"
+  },
+  "GP4": {
+      "location": "Qatar Lusail International Circuit",
+      "history": "The Lusail International Circuit has hosted the season opener for MotoGP since 2004.",
+      "record_holder": "Francesco Bagnaia",
+      "record_time": "1:52.772",
+      "fun_fact": "It hosts MotoGP races under floodlights.",
+      "image_link": "https://photos.motogp.com/events-admin/b/1/b1cd25b2-1658-4c3b-bd3f-1a7796f7cd27/info/qat-info.svg",
+      "length": "5.380 km"
+  },
+  "GP5": {
+      "location": "Spain Circuito de Jerez - Ángel Nieto",
+      "history": "A historic circuit that has been part of the MotoGP calendar since 1987.",
+      "record_holder": "Fabio Quartararo",
+      "record_time": "1:36.755",
+      "fun_fact": "It was renamed in honor of Spanish rider Ángel Nieto.",
+      "image_link": "https://photos.motogp.com/events-admin/4/2/42621ff3-ef5d-4c7c-8abf-eb54c16181bc/info/spa-info.svg",
+      "length": "4.423 km"
+  },
+  "GP6": {
+      "location": "France Le Mans",
+      "history": "The Le Mans Bugatti Circuit has been a regular on the MotoGP calendar since 1969.",
+      "record_holder": "Johann Zarco",
+      "record_time": "1:31.185",
+      "fun_fact": "The circuit is known for unpredictable weather conditions.",
+      "image_link": "https://photos.motogp.com/events-admin/4/5/45f698f6-883b-4379-bac3-3253ee6e32e0/info/fra-info.svg",
+      "length": "4.185 km"
+  },
+  "GP7": {
+      "location": "United Kingdom Silverstone Circuit",
+      "history": "Silverstone is one of the oldest circuits in MotoGP, hosting races since 1977.",
+      "record_holder": "Aleix Espargaró",
+      "record_time": "1:59.346",
+      "fun_fact": "It has one of the longest lap distances on the MotoGP calendar.",
+      "image_link": "https://photos.motogp.com/events-admin/2/f/2f84e93c-dca6-4ca4-9319-c29eba5bbabb/info/gbr-info.svg",
+      "length": "5.900 km"
+  },
+  "GP8": {
+      "location": "Aragon Motorland Aragón",
+      "history": "Motorland Aragón joined MotoGP in 2010 and has become a fan favorite.",
+      "record_holder": "Francesco Bagnaia",
+      "record_time": "1:46.322",
+      "fun_fact": "Designed by renowned architect Hermann Tilke.",
+      "image_link": "https://photos.motogp.com/events-admin/9/9/99cf40f3-6ed4-4cd9-9c1c-22379f6d929b/info/ara-info.svg",
+      "length": "5.077 km"
+  },
+  "GP9": {
+      "location": "Italy Autodromo Internazionale del Mugello",
+      "history": "Mugello has been a regular fixture in MotoGP since 1994.",
+      "record_holder": "Francesco Bagnaia",
+      "record_time": "1:45.771",
+      "fun_fact": "Known for its high-speed straights and scenic Tuscan backdrop.",
+      "image_link": "https://photos.motogp.com/events-admin/a/f/af57cc25-cf15-4f68-b775-ddaea8fec828/info/ita-info.svg",
+      "length": "5.245 km"
+  },
+  "GP10": {
+      "location": "Netherlands TT Circuit Assen",
+      "history": "The 'Cathedral of Speed,' Assen has hosted races since 1949.",
+      "record_holder": "Fabio Quartararo",
+      "record_time": "1:32.869",
+      "fun_fact": "The only circuit to host a MotoGP race every year since the championship began.",
+      "image_link": "https://photos.motogp.com/events-admin/2/c/2c30ee0c-d85b-48e1-b6d4-303a2ba22ae1/info/ned-info.svg",
+      "length": "4.542 km"
+  },
+  "GP11": {
+      "location": "Germany Sachsenring",
+      "history": "Sachsenring has been a part of the MotoGP calendar since 1998.",
+      "record_holder": "Marc Márquez",
+      "record_time": "1:20.195",
+      "fun_fact": "It features one of the shortest lap distances on the calendar.",
+      "image_link": "https://photos.motogp.com/events-admin/5/c/5cab1166-44c1-45ad-bc30-96d910170097/info/ger-info.svg",
+      "length": "3.671 km"
+  },
+  "GP12": {
+      "location": "Czechia Automotodrom Brno",
+      "history": "Brno has hosted MotoGP races since 1987 and is a favorite among riders.",
+      "record_holder": "Jorge Lorenzo",
+      "record_time": "1:55.902",
+      "fun_fact": "Known for its elevation changes and sweeping corners.",
+      "image_link": "https://photos.motogp.com/events-admin/8/1/811bb92b-cf2c-44ec-a188-b9681ba9fc12/info/cze-info.svg",
+      "length": "5.403 km"
+  },
+  "GP13": {
+      "location": "Austria Red Bull Ring - Spielberg",
+      "history": "Red Bull Ring returned to MotoGP in 2016 after a long hiatus.",
+      "record_holder": "Jorge Martín",
+      "record_time": "1:22.994",
+      "fun_fact": "One of the fastest circuits on the calendar.",
+      "image_link": "https://photos.motogp.com/events-admin/5/3/53e027a4-908f-4253-9805-7321bd212fae/info/aut-info.svg",
+      "length": "4.318 km"
+  },
+  "GP14": {
+      "location": "Hungary Balaton Park",
+      "history": "Balaton Park is a new addition to the MotoGP calendar.",
+      "record_holder": "N/A",
+      "record_time": "N/A",
+      "fun_fact": "The circuit is designed with safety and sustainability in mind.",
+      "image_link": "https://photos.motogp.com/events-admin/4/6/46218937-1b94-4d2e-97b7-256b5bf181c3/info/hun-info.svg",
+      "length": "4.000 km"
+  },
+  "GP15": {
+      "location": "Catalonia Circuit de Barcelona-Catalunya",
+      "history": "A staple of MotoGP since 1992, known for its technical layout.",
+      "record_holder": "Fabio Quartararo",
+      "record_time": "1:38.853",
+      "fun_fact": "Also used as a popular F1 testing venue.",
+      "image_link": "https://photos.motogp.com/events-admin/e/e/eea725c5-432a-483b-bf46-f9769b8e5ddf/info/cat-info.svg",
+      "length": "4.675 km"
+  },
+  "GP16": {
+      "location": "San Marino Misano World Circuit Marco Simoncelli",
+      "history": "Misano has hosted MotoGP since 1980 and was renamed to honor Marco Simoncelli.",
+      "record_holder": "Francesco Bagnaia",
+      "record_time": "1:31.065",
+      "fun_fact": "Located near the Adriatic Sea.",
+      "image_link": "https://photos.motogp.com/events-admin/0/c/0c4b819d-6014-4920-877b-ab0a1f3415a3/info/rsm-info.svg",
+      "length": "4.226 km"
+  },
+  "GP17": {
+      "location": "Japan Mobility Resort Motegi",
+      "history": "Motegi has been part of MotoGP since 1999.",
+      "record_holder": "Jorge Lorenzo",
+      "record_time": "1:45.350",
+      "fun_fact": "Also known as the Twin Ring Motegi due to its dual-track design.",
+      "image_link": "https://photos.motogp.com/events-admin/9/f/9fbd0109-0b0b-4bbb-a671-d7840036babe/info/jpn-info.svg",
+      "length": "4.801 km"
+  },
+  "GP18": {
+      "location": "Indonesia Pertamina Mandalika Circuit",
+      "history": "Mandalika joined MotoGP in 2021.",
+      "record_holder": "Fabio Quartararo",
+      "record_time": "1:31.067",
+      "fun_fact": "Located on the island of Lombok, offering stunning ocean views.",
+      "image_link": "https://photos.motogp.com/events-admin/0/d/0db4e87a-920f-4699-a688-63e22b924f1b/info/ina-info.svg",
+      "length": "4.310 km"
+  },
+  "GP19": {
+      "location": "Australia Phillip Island",
+      "history": "Phillip Island has been a MotoGP favorite since 1989.",
+      "record_holder": "Jorge Lorenzo",
+      "record_time": "1:28.108",
+      "fun_fact": "Known for its scenic ocean backdrop and high-speed corners.",
+      "image_link": "https://photos.motogp.com/events-admin/c/e/ce2c750b-4a15-4285-966b-5db647e6596a/info/aus-info.svg",
+      "length": "4.448 km"
+  },
+  "GP20": {
+      "location": "Malaysia Sepang International Circuit",
+      "history": "Sepang has been part of MotoGP since 1999.",
+      "record_holder": "Francesco Bagnaia",
+      "record_time": "1:58.303",
+      "fun_fact": "One of the most challenging circuits due to its heat and humidity.",
+      "image_link": "https://photos.motogp.com/events-admin/0/7/07f44869-813e-46e6-97ba-aa405e134d87/info/mal-info.svg",
+      "length": "5.543 km"
+  },
+  "GP21": {
+      "location": "Portugal Algarve International Circuit",
+      "history": "Algarve joined MotoGP in 2020 as a substitute venue.",
+      "record_holder": "Francesco Bagnaia",
+      "record_time": "1:38.725",
+      "fun_fact": "Known for its undulating layout, earning it the nickname 'Portimão Rollercoaster.'",
+      "image_link": "https://photos.motogp.com/events-admin/0/b/0b5cf829-21cf-48dd-a324-1465fc504c24/info/por-info.svg",
+      "length": "4.592 km"
+  },
+  "GP22": {
+      "location": "Valencia Circuit Ricardo Tormo",
+      "history": "Valencia Circuit Ricardo Tormo has been a staple in the MotoGP calendar and often hosts the season finale.",
+      "record_holder": "Francesco Bagnaia",
+      "record_time": "1:30.450",
+      "fun_fact": "The circuit is named after Spanish rider Ricardo Tormo, a two-time world champion.",
+      "image_link": "https://photos.motogp.com/events-admin/7/9/795839a0-8faa-4f4e-a574-8dce32cfc560/info/val-info.svg",
+      "length": "4.005 km"
+  }
+}

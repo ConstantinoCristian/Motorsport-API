@@ -1,0 +1,97 @@
+{
+  
+    "GP1": {
+      "Circuit_Location": "THAILAND BURIRAM INTERNATIONAL CIRCUIT",
+      "Date": "28 FEB - 2 MAR"
+    },
+    "GP2": {
+      "Circuit_Location": "ARGENTINA TERMAS DE RÍO HONDO",
+      "Date": "14 MAR - 16 MAR"
+    },
+    "GP3": {
+      "Circuit_Location": "USA CIRCUIT OF THE AMERICAS",
+      "Date": "28 MAR - 30 MAR"
+    },
+    "GP4": {
+      "Circuit_Location": "QATAR LUSAIL INTERNATIONAL CIRCUIT",
+      "Date": "11 APR - 13 APR"
+    },
+    "GP5": {
+      "Circuit_Location": "SPAIN CIRCUITO DE JEREZ - ÁNGEL NIETO",
+      "Date": "25 APR - 27 APR"
+    },
+    "GP6": {
+      "Circuit_Location": "FRANCE LE MANS",
+      "Date": "9 MAY - 11 MAY"
+    },
+    "GP7": {
+      "Circuit_Location": "UNITED KINGDOM SILVERSTONE CIRCUIT",
+      "Date": "23 MAY - 25 MAY"
+    },
+    "GP8": {
+      "Circuit_Location": "ARAGON MOTORLAND ARAGÓN",
+      "Date": "6 JUN - 8 JUN"
+    },
+    "GP9": {
+      "Circuit_Location": "ITALY AUTODROMO INTERNAZIONALE DEL MUGELLO",
+      "Date": "20 JUN - 22 JUN"
+    },
+    "GP10": {
+      "Circuit_Location": "NETHERLANDS TT CIRCUIT ASSEN",
+      "Date": "27 JUN - 29 JUN"
+    },
+    "GP11": {
+      "Circuit_Location": "GERMANY SACHSENRING",
+      "Date": "11 JUL - 13 JUL"
+    },
+    "GP12": {
+      "Circuit_Location": "CZECHIA AUTOMOTODROM BRNO",
+      "Date": "18 JUL - 20 JUL"
+    },
+    "GP13": {
+      "Circuit_Location": "AUSTRIA RED BULL RING - SPIELBERG",
+      "Date": "15 AUG - 17 AUG"
+    },
+    "GP14": {
+      "Circuit_Location": "HUNGARY BALATON PARK",
+      "Date": "22 AUG - 24 AUG"
+    },
+    "GP15": {
+      "Circuit_Location": "CATALONIA CIRCUIT DE BARCELONA-CATALUNYA",
+      "Date": "5 SEP - 7 SEP"
+    },
+    "GP16": {
+      "Circuit_Location": "SAN MARINO MISANO WORLD CIRCUIT MARCO SIMONCELLI",
+      "Date": "12 SEP - 14 SEP"
+    },
+    "GP17": {
+      "Circuit_Location": "JAPAN MOBILITY RESORT MOTEGI",
+      "Date": "26 SEP - 28 SEP"
+    },
+    "GP18": {
+      "Circuit_Location": "INDONESIA PERTAMINA MANDALIKA CIRCUIT",
+      "Date": "3 OCT - 5 OCT"
+    },
+    "GP19": {
+      "Circuit_Location": "AUSTRALIA PHILLIP ISLAND",
+      "Date": "17 OCT - 19 OCT"
+    },
+    "GP20": {
+      "Circuit_Location": "MALAYSIA PETRONAS SEPANG INTERNATIONAL CIRCUIT",
+      "Date": "24 OCT - 26 OCT"
+    },
+    "GP21": {
+      "Circuit_Location": "PORTUGAL AUTÓDROMO INTERNACIONAL DO ALGARVE",
+      "Date": "7 NOV - 9 NOV"
+    },
+    "GP22": {
+      "Circuit_Location": "VALENCIA CIRCUIT RICARDO TORMO",
+      "Date": "14 NOV - 16 NOV"
+    }
+  
+  ,
+  "Test": {
+    "Circuit_Location": "SAN MARINO MOTOGP TEST Misano World Circuit Marco Simoncelli",
+    "Date": "15 Sep"
+  }
+}

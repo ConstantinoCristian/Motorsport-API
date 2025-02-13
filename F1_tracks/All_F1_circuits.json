@@ -1,0 +1,241 @@
+{
+    "Testing": {
+        "location": "Sakhir",
+        "history": "The Bahrain International Circuit is renowned for its state-of-the-art design and was the first Formula 1 race held in the Middle East, debuting in 2004.",
+        "record_holder": "Pedro de la Rosa",
+        "record_time": "1:31.447",
+        "fun_fact": "The circuit is surrounded by desert sands and features an artificial oasis.",
+        "image_link": "https://media.formula1.com/image/upload/f_auto,c_limit,w_960,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Bahrain_Circuit"
+    },
+    "Round 1": {
+        "location": "Australia",
+        "history": "Albert Park Circuit in Melbourne has hosted the Australian Grand Prix since 1996, known for its mix of street and parkland sections.",
+        "record_holder": "Charles Leclerc",
+        "record_time": "1:20.260",
+        "fun_fact": "The track is constructed around a public park and is temporary.",
+        "image_link": "https://media.formula1.com/image/upload/f_auto,c_limit,w_960,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Australia_Circuit",
+        "length": "5.278 km"
+    },
+    "Round 2": {
+        "location": "China",
+        "history": "Shanghai International Circuit opened in 2004 and features one of the longest straights in F1.",
+        "record_holder": "Lewis Hamilton",
+        "record_time": "1:32.238",
+        "fun_fact": "The track layout resembles the Chinese character 'shang', meaning 'high' or 'above'.",
+        "image_link": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/China_Circuit",
+        "length": "5.451 km"
+    },
+    "Round 3": {
+        "location": "Japan",
+        "history": "Suzuka Circuit is an iconic track with a figure-eight layout and has hosted F1 races since 1987.",
+        "record_holder": "Lewis Hamilton",
+        "record_time": "1:30.983",
+        "fun_fact": "Suzuka is known for its challenging 130R corner, considered one of the most difficult in F1.",
+        "image_link": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Japan_Circuit",
+        "length": "5.807 km"
+    },
+    "Round 4": {
+        "location": "Bahrain",
+        "history": "The Bahrain Grand Prix, first held in 2004, was the first Formula 1 race in the Middle East.",
+        "record_holder": "Pedro de la Rosa",
+        "record_time": "1:31.447",
+        "fun_fact": "The event is often held at night, creating a stunning spectacle under the lights.",
+        "image_link": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Bahrain_Circuit",
+        "length": "5.412 km"
+    },
+    "Round 5": {
+        "location": "Saudi Arabia",
+        "history": "Jeddah Corniche Circuit is one of the newest tracks, debuting in 2021 as the fastest street circuit in F1.",
+        "record_holder": "Lewis Hamilton",
+        "record_time": "1:27.511",
+        "fun_fact": "The circuit runs along the Red Sea, providing spectacular views.",
+        "image_link": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit",
+        "length": "6.174 km"
+    },
+    "Round 6": {
+        "location": "Miami",
+        "history": "Miami International Autodrome is a relatively new circuit, first hosting the Miami Grand Prix in 2022.",
+        "record_holder": "Max Verstappen",
+        "record_time": "1:29.708",
+        "fun_fact": "The circuit is built around the Hard Rock Stadium, home of the Miami Dolphins.",
+        "image_link": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Miami_Circuit",
+        "length": "5.412 km"
+    },
+    "Round 7": {
+        "location": "Emilia-Romagna",
+        "history": "Imola Circuit, officially named Autodromo Internazionale Enzo e Dino Ferrari, has a long history in F1 since 1980.",
+        "record_holder": "Lewis Hamilton",
+        "record_time": "1:15.484",
+        "fun_fact": "Imola is known for its anti-clockwise layout, a rarity in F1.",
+        "image_link": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Emilia_Romagna_Circuit",
+        "length": "4.909 km"
+    },
+    "Round 8": {
+        "location": "Monaco",
+        "history": "The Monaco Grand Prix, held since 1929, is one of the most prestigious and challenging tracks in F1.",
+        "record_holder": "Max Verstappen",
+        "record_time": "1:12.909",
+        "fun_fact": "The circuit features tight corners and elevation changes, winding through the streets of Monte Carlo.",
+        "image_link": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Monaco_Circuit",
+        "length": "3.337 km"
+    },
+    "Round 9": {
+        "location": "Spain",
+        "history": "The Circuit de Barcelona-Catalunya has been a staple in F1 since 1991, known for its technical layout.",
+        "record_holder": "Max Verstappen",
+        "record_time": "1:18.149",
+        "fun_fact": "The circuit is a popular testing venue due to its balanced layout.",
+        "image_link": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Spain_Circuit",
+        "length": "4.675 km"
+    },
+    "Round 10": {
+        "location": "Canada",
+        "history": "Circuit Gilles Villeneuve in Montreal has hosted the Canadian Grand Prix since 1978.",
+        "record_holder": "Valtteri Bottas",
+        "record_time": "1:13.078",
+        "fun_fact": "The circuit is known for the 'Wall of Champions,' a notorious corner that has claimed many F1 drivers.",
+        "image_link": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Canada_Circuit",
+        "length": "4.361 km"
+    },
+    "ROUND 11": {
+        "circuit_name": "Red Bull Ring",
+        "location": "Austria",
+        "history": "Originally built in 1969, the track was revamped and renamed the A1-Ring before becoming the Red Bull Ring in 2011.",
+        "record_holder": "Carlos Sainz",
+        "record_time": "1:05.619",
+        "fun_fact": "The Red Bull Ring is known for its elevation changes and stunning Alpine backdrop.",
+        "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Austria_Circuit",
+        "length": "4.318 km"
+    },
+    "ROUND 12": {
+        "circuit_name": "Silverstone Circuit",
+        "location": "Great Britain",
+        "history": "Silverstone hosted the first Formula 1 World Championship race in 1950. It has undergone multiple modifications since.",
+        "record_holder": "Lewis Hamilton",
+        "record_time": "1:27.369",
+        "fun_fact": "The British Grand Prix at Silverstone is considered the 'home of Formula 1' due to its rich history.",
+        "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Great_Britain_Circuit",
+        "length": "5.891 km"
+    },
+    "ROUND 13": {
+        "circuit_name": "Circuit de Spa-Francorchamps",
+        "location": "Belgium",
+        "history": "Spa is one of the oldest circuits in F1, debuting in 1925. Known for its challenging corners like Eau Rouge and Raidillon.",
+        "record_holder": "Max Verstappen",
+        "record_time": "1:46.286",
+        "fun_fact": "The circuit is located in the Ardennes forest, leading to unpredictable weather conditions.",
+        "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Belgium_Circuit",
+        "length":"7.004 km"
+    },
+    "ROUND 14": {
+        "circuit_name": "Hungaroring",
+        "location": "Hungary",
+        "history": "Debuting in 1986, it was the first F1 race held behind the Iron Curtain.",
+        "record_holder": "Lewis Hamilton",
+        "record_time": "1:16.627",
+        "fun_fact": "The Hungaroring is one of the most physically demanding circuits due to its tight and twisty layout.",
+        "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Hungary_Circuit",
+        "length": "4.381 km"
+    },
+    "ROUND 15": {
+        "circuit_name": "Circuit Zandvoort",
+        "location": "Netherlands",
+        "history": "Zandvoort returned to the calendar in 2021 after a 36-year absence.",
+        "record_holder": "Max Verstappen",
+        "record_time": "1:11.097",
+        "fun_fact": "The track's banked corners make it unique among modern F1 circuits.",
+        "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Netherlands_Circuit",
+        "length": "4.259 km"
+    },
+    "ROUND 16": {
+        "circuit_name": "Monza",
+        "location": "Italy",
+        "history": "Known as the 'Temple of Speed,' Monza is one of the oldest tracks, hosting its first Grand Prix in 1922.",
+        "record_holder": "Lewis Hamilton",
+        "record_time": "1:18.887",
+        "fun_fact": "Monza has the highest average speed of any F1 circuit.",
+        "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Italy_Circuit",
+        "length": "5.793 km"
+    },
+    "ROUND 17": {
+        "circuit_name": "Baku City Circuit",
+        "location": "Azerbaijan",
+        "history": "First hosted in 2016, this street circuit combines tight corners with long straights.",
+        "record_holder": "Charles Leclerc",
+        "record_time": "1:43.009",
+        "fun_fact": "The circuit passes the historic Maiden Tower and offers a mix of old and modern cityscapes.",
+        "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Baku_Circuit",
+        "length": "6.003 km"
+    },
+    "ROUND 18": {
+        "circuit_name": "Marina Bay Street Circuit",
+        "location": "Singapore",
+        "history": "The first F1 night race was held here in 2008, setting a precedent for night racing.",
+        "record_holder": "Kevin Magnussen",
+        "record_time": "1:41.905",
+        "fun_fact": "The Singapore GP is known for its stunning night-time cityscape and humid conditions.",
+        "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Singapore_Circuit",
+        "length": "4.940 km"
+    },
+    "ROUND 19": {
+        "circuit_name": "Circuit of the Americas",
+        "location": "United States",
+        "history": "Debuted in 2012, it features elements inspired by iconic F1 circuits worldwide.",
+        "record_holder": "Lewis Hamilton",
+        "record_time": "1:36.169",
+        "fun_fact": "The circuit's signature Turn 1 features a steep uphill climb followed by a sharp hairpin.",
+        "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/USA_Circuit",
+        "length": "5.513 km"
+    },
+    "ROUND 20": {
+        "circuit_name": "Autodromo Hermanos Rodriguez",
+        "location": "Mexico",
+        "history": "First hosted in 1963, the circuit was revamped and returned in 2015.",
+        "record_holder": "Max Verstappen",
+        "record_time": "1:14.758",
+        "fun_fact": "The circuit's high altitude makes it challenging for engines and drivers.",
+        "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Mexico_Circuit",
+        "length": "4.304 km"
+    },
+    "ROUND 21": {
+        "circuit_name": "Interlagos",
+        "location": "Brazil",
+        "history": "Built in 1940, Interlagos is one of the most iconic circuits in F1, known for its passionate fans.",
+        "record_holder": "Max Verstappen",
+        "record_time": "1:07.508",
+        "fun_fact": "Interlagos is one of the few circuits run counterclockwise.",
+        "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Brazil_Circuit",
+        "length": "4.309 km"
+    },
+    "ROUND 22": {
+        "circuit_name": "Las Vegas Street Circuit",
+        "location": "United States",
+        "history": "Debuted in 2023, this circuit is the latest addition to F1, running along the Las Vegas Strip.",
+        "record_holder": "N/A",
+        "record_time": "N/A",
+        "fun_fact": "It features a glittering night race in the heart of the entertainment capital of the world.",
+        "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Las_Vegas_Circuit",
+        "length": "6.120 km"
+    },
+    "ROUND 23": {
+        "circuit_name": "Lusail International Circuit",
+        "location": "Qatar",
+        "history": "Originally built for MotoGP, it hosted its first F1 race in 2021.",
+        "record_holder": "Lewis Hamilton",
+        "record_time": "1:23.196",
+        "fun_fact": "The track is surrounded by artificial lighting, making it perfect for night races.",
+        "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Qatar_Circuit",
+        "length": "5.419 km"
+    },
+    "ROUND 24": {
+        "circuit_name": "Yas Marina Circuit",
+        "location": "Abu Dhabi",
+        "history": "Debuted in 2009 as F1's first day-to-night race, featuring stunning views of Yas Island.",
+        "record_holder": "Max Verstappen",
+        "record_time": "1:26.103",
+        "fun_fact": "The circuit's pit exit passes under the track through a tunnel.",
+        "image_url": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Abu_Dhabi_Circuit",
+        "length": "5.281 km"
+    }
+
+}

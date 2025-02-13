@@ -1,0 +1,123 @@
+{
+  "aprilia-racing": {
+    "teamName": "Aprilia Racing",
+    "teamsArray": {
+      "Country:": "Italy",
+      "Established:": "1994",
+      "Racers:": ["Jorge Martin", "Marco Bezzecchi"],
+      "Chassis:": "Aprilia - Aluminium",
+      "Engine:": "Aprilia - V4"
+    
+    }
+  },
+  "ducati-lenovo-team": {
+    "teamName": "Ducati Lenovo Team",
+    "teamsArray": {
+      "Country:": "Italy",
+      "Established:": "2003",
+      "Racers:": ["Francesco Bagnaia", "Marc Marquez"],
+      "Chassis:": "Ducati - Aluminium",
+      "Engine:": "Ducati - V4"
+      
+    }
+  },
+  "gresini-racing-motogp": {
+    "teamName": "Gresini Racing MotoGP",
+    "teamsArray": {
+      "Country:": "Italy",
+      "Established:": "1997",
+      "Racers:": ["Alex Marquez", "Fermin Aldeguer"],
+      "Chassis:": "Ducati - Aluminium",
+      "Engine:": "Ducati - V4"
+    
+    }
+  },
+  "repsol-honda-team": {
+    "teamName": "Honda HRC",
+    "teamsArray": {
+      "Country:": "Japan",
+      "Established:": "1979",
+      "Racers:": ["Joan Mir", "Luca Marini"],
+      "Chassis:": "Honda - Aluminium",
+      "Engine:": "Honda - V4"
+      
+    }
+  },
+  "lcr-honda": {
+    "teamName": "LCR Honda",
+    "teamsArray": {
+      "Country:": "Monaco",
+      "Established:": "1996",
+      "Racers:": ["Johann Zarco", "Somkiat Chantra"],
+      "Chassis:": "Honda - Aluminium",
+      "Engine:": "Honda - V4"
+      
+    }
+  },
+  "monster-energy-yamaha-motogp": {
+    "teamName": "Monster Energy Yamaha MotoGP",
+    "teamsArray": {
+      "Country:": "Japan",
+      "Established:": "1999",
+      "Racers:": ["Fabio Quartararo", "Alex Rins"],
+      "Chassis:": "Yamaha - Aluminium",
+      "Engine:": "Yamaha - Inline4"
+      
+    }
+  },
+  "pertamina-enduro-vr46-racing": {
+    "teamName": "Pertamina Enduro VR46 Racing",
+    "teamsArray": {
+      "Country:": "Italy",
+      "Established:": "2021",
+      "Racers:": ["Fabio di Giannantonio", "Franco Morbidelli"],
+      "Chassis:": "Ducati - Aluminium",
+      "Engine:": "Ducati - V4"
+    
+    }
+  },
+  "prima-pramac-yamaha": {
+    "teamName": "Prima Pramac Yamaha",
+    "teamsArray": {
+      "Country:": "Italy",
+      "Established:": "2002",
+      "Racers:": ["Miguel Oliveira", "Jack Miller"],
+      "Chassis:": "Yamaha - Aluminium",
+      "Engine:": "Yamaha - Inline4"
+      
+    }
+  },
+  "red-bull-ktm-factory-racing": {
+    "teamName": "Red Bull KTM Factory Racing",
+    "teamsArray": {
+      "Country:": "Austria",
+      "Established:": "2016",
+      "Racers:": ["Brad Binder", "Pedro Acosta"],
+      "Chassis:": "KTM - Carbon fibre",
+      "Engine:": "KTM - V4"
+      
+    }
+  },
+  "red-bull-ktm-tech3": {
+    "teamName": "Red Bull KTM Tech3",
+    "teamsArray": {
+      "Country:": "France",
+      "Established:": "2001",
+      "Racers:": ["Maverick Vinales", "Enea Bastianini"],
+      "Chassis:": "KTM - Carbon fibre",
+      "Engine:": "KTM - V4"
+      
+    }
+  },
+  "trackhouse-motogp-team": {
+    "teamName": "Trackhouse MotoGP Team",
+    "teamsArray": {
+      "Country:": "USA",
+      "Established:": "2024",
+      "Racers:": ["Raul Fernandez", "Ai Ogura"],
+      "Chassis:": "Aprilia - Aluminium",
+      "Engine:": "Aprilia - V4"
+      
+    }
+  }
+}

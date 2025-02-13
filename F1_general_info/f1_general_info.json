@@ -1,0 +1,66 @@
+{
+  "F1": {
+    "general": {
+      "description": "Formula 1 (F1) is the highest class of single-seater auto racing, sanctioned by the Fédération Internationale de l'Automobile (FIA). It features a series of races called Grands Prix held worldwide on circuits and public roads.",
+      "governing_body": "Fédération Internationale de l'Automobile (FIA)",
+      "founded": "1950",
+      "seasons_per_year": "Approximately 20-23 races per season"
+    },
+    "history": {
+      "origins": {
+        "first_race": "The first F1 World Championship race was held at Silverstone, UK, on May 13, 1950.",
+        "early_era": "Initially dominated by manufacturers like Alfa Romeo, Ferrari, and Maserati."
+      },
+      "milestones": [
+        {
+          "year": 1950,
+          "event": "Inaugural F1 World Championship season."
+        },
+        {
+          "year": 1967,
+          "event": "Introduction of the downforce concept to F1 cars."
+        },
+        {
+          "year": 1988,
+          "event": "McLaren won 15 out of 16 races in a season with Ayrton Senna and Alain Prost."
+        },
+        {
+          "year": 1994,
+          "event": "Introduction of new safety measures after the tragic deaths of Ayrton Senna and Roland Ratzenberger."
+        },
+        {
+          "year": 2022,
+          "event": "New regulations introduced, focusing on ground effect aerodynamics and closer racing."
+        }
+      ]
+    },
+    "cars": {
+      "general": {
+        "description": "F1 cars are high-performance, open-wheel, single-seater vehicles engineered for maximum speed and performance, capable of exceeding 370 km/h (230 mph).",
+        "engine_specifications": "1.6-liter V6 turbo hybrid engines",
+        "fuel": "Sustainable E10 fuel (10% ethanol, 90% fossil fuel blend)",
+        "weight": "Minimum of 798 kg (including driver)"
+      },
+      "aerodynamics": {
+        "features": [
+          "Front and rear wings to generate downforce",
+          "Diffuser to enhance ground effect",
+          "Complex bargeboards and sidepods to control airflow"
+        ]
+      },
+      "tires": {
+        "supplier": "Pirelli",
+        "types": [
+          "Soft (C1-C5 compound range for different grip levels)",
+          "Intermediate (for light wet conditions)",
+          "Wet (for heavy rain)"
+        ]
+      },
+      "technology": {
+        "DRS": "Drag Reduction System to aid overtaking",
+        "ERS": "Energy Recovery System to recover kinetic and heat energy",
+        "telemetry": "Real-time data transmission to teams for analysis"
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Alpine": [
+    "Pierre_GASLY",
+    "Jack_DOOHAN"
+  ],
+  "Aston Martin": [
+    "Lance_STROLL",
+    "Fernando_ALONSO"
+  ],
+  "Ferrari": [
+    "Charles_LECLERC",
+    "Lewis_HAMILTON"
+  ],
+  "Haas": [
+    "Esteban_OCON",
+    "Oliver_BEARMAN"
+  ],
+  "Kick Sauber": [
+    "Nico_HULKENBERG",
+    "Gabriel_BORTOLETO"
+  ],
+  "McLaren": [
+    "Oscar_PIASTRI",
+    "Lando_NORRIS"
+  ],
+  "Mercedes": [
+    "George_RUSSELL",
+    "Andrea Kimi_ANTONELLI"
+  ],
+  "Racing Bulls": [
+    "Isack_HADJAR",
+    "Yuki_TSUNODA"
+  ],
+  "Red Bull Racing": [
+    "Max_VERSTAPPEN",
+    "Liam_LAWSON"
+  ],
+  "Williams": [
+    "Alexander_ALBON",
+    "Carlos_SAINZ"
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "Alex Rins": {
+    "Full Name": "Alex Rins",
+    "Date of Birth": "8th December 1995",
+    "Place of Birth": "Barcelona",
+    "Country": "Spain",
+    "Races": "123",
+    "Wins": "6",
+    "image":"https://cdn.crash.net/2024-02/MEYMm_2024%2000B%20Test%20Sepang%2058731.jpg?width=400"
+    
+  },
+  "Fabio Quartararo": {
+    "Full Name": "Fabio Quartararo",
+    "Date of Birth": "20th April 1999",
+    "Place of Birth": "Nice",
+    "Country": "France",
+    "Championships": "1",
+    "Races": "111",
+    "Poles": "16",
+    "Wins": "11",
+    "image":"https://cdn.crash.net/2025-01/GnG_1186359_HiRes.jpg?width=400"
+  },
+  "Jorge Martin": {
+    "Full Name": "Jorge Martin",
+    "Date of Birth": "29th January 1998",
+    "Place of Birth": "Madrid",
+    "Country": "Spain",
+    "Championships": "1",
+    "Races": "74",
+    "Poles": "20",
+    "Wins": "8",
+    "image":"https://cdn.crash.net/2025-01/GnG_1197266_HiRes.jpg?width=400"
+  },
+  "Marco Bezzecchi": {
+    "Full Name": "Marco Bezzecchi",
+    "Date of Birth": "12th November 1998",
+    "Place of Birth": "Rimini",
+    "Country": "Italy",
+    "Races": "60",
+    "Poles": "4",
+    "Wins": "3",
+    "image":"https://cdn.crash.net/2025-01/GnG_1198520_HiRes.jpg?width=400"
+  },
+  "Marc Marquez": {
+    "Full Name": "Marc Marquez",
+    "Date of Birth": "17th February 1993",
+    "Place of Birth": "Cervera",
+    "Country": "Spain",
+    "Championships": "6",
+    "Races": "189",
+    "Poles": "66",
+    "Wins": "62",
+    "image":"https://cdn.crash.net/2025-01/GnG_1198753_HiRes.jpg?width=400"
+  },
+  "Francesco Bagnaia": {
+    "Full Name": "Francesco Bagnaia",
+    "Date of Birth": "14th January 1997",
+    "Place of Birth": "Turin",
+    "Country": "Italy",
+    "Championships": "2",
+    "Races": "107",
+    "Poles": "24",
+    "Wins": "29",
+    "image":"https://cdn.crash.net/2025-01/GnG_1197441_HiRes.jpg?width=400"
+  },
+  "Alex Marquez": {
+    "Full Name": "Alex Marquez",
+    "Date of Birth": "23rd April 1996",
+    "Place of Birth": "Cervera",
+    "Country": "Spain",
+    "Races": "89",
+    "Poles": "1",
+    "image":"https://cdn.crash.net/2025-01/GnG_1198820_HiRes.jpg?width=400"
+  },
+  "Fermin Aldeguer": {
+    "Full Name": "Fermin Aldeguer",
+    "Date of Birth": "5th April 2005",
+    "Place of Birth": "Murcia",
+    "Country": "Spain",
+    "image":"https://cdn.crash.net/2025-01/GnG_1198866_HiRes.jpg?width=400"
+  },
+  "Joan Mir": {
+    "Full Name": "Joan Mir",
+    "Date of Birth": "1st September 1997",
+    "Place of Birth": "Palma",
+    "Country": "Spain",
+    "Championships": "1",
+    "Races": "99",
+    "Wins": "1",
+    "image":"https://cdn.crash.net/2025-01/GnG_1197816_HiRes.jpg?width=400"
+  },
+  "Luca Marini": {
+    "Full Name": "Luca Marini",
+    "Date of Birth": "10th August 1997",
+    "Place of Birth": "Urbino",
+    "Country": "Italy",
+    "Races": "75",
+    "Poles": "2",
+    "image":"https://cdn.crash.net/2025-01/GnG_1199174_HiRes_0.jpg?width=400"
+  },
+  "Johann Zarco": {
+    "Full Name": "Johann Zarco",
+    "Date of Birth": "16th July 1990",
+    "Place of Birth": "Cannes",
+    "Country": "France",
+    "Races": "144",
+    "Poles": "8",
+    "Wins": "1",
+    "image":"https://cdn.crash.net/2025-01/GnG_1194354_HiRes.jpg?width=400"
+  },
+  "Somkiat Chantra": {
+    "Full Name": "Somkiat Chantra",
+    "Date of Birth": "15th December 1998",
+    "Place of Birth": "Chonburi",
+    "Country": "Thailand",
+    "image":"https://cdn.crash.net/2025-01/GnG_1198775_HiRes.jpg?width=400"
+  },
+  "Franco Morbidelli": {
+    "Full Name": "Franco Morbidelli",
+    "Date of Birth": "4th December 1994",
+    "Place of Birth": "Rome",
+    "Country": "Italy",
+    "Races": "122",
+    "Poles": "2",
+    "Wins": "3",
+    "image":"https://cdn.crash.net/2025-01/GnG_1198876_HiRes.jpg?width=400"
+  },
+  "Fabio di Giannantonio": {
+    "Full Name": "Fabio di Giannantonio",
+    "Date of Birth": "10th October 1998",
+    "Place of Birth": "Rome",
+    "Country": "Italy",
+    "Races": "57",
+    "Poles": "1",
+    "Wins": "1",
+    "image":"https://cdn.crash.net/2025-01/GnG_1164012_HiRes.jpg?width=400"
+  },
+  "Jack Miller": {
+    "Full Name": "Jack Miller",
+    "Date of Birth": "18th January 1995",
+    "Place of Birth": "Townsville",
+    "Country": "Australia",
+    "Races": "177",
+    "Poles": "2",
+    "Wins": "4",
+    "image":"https://cdn.crash.net/2025-01/GnG_1198827_HiRes.jpg?width=400"
+  },
+  "Miguel Oliveira": {
+    "Full Name": "Miguel Oliveira",
+    "Date of Birth": "4th January 1995",
+    "Place of Birth": "Almada",
+    "Country": "Portugal",
+    "Races": "99",
+    "Poles": "1",
+    "Wins": "5",
+    "image":"https://cdn.crash.net/2025-01/GnG_1198790_HiRes.jpg?width=400"
+  },
+  "Pedro Acosta": {
+    "Full Name": "Pedro Acosta",
+    "Date of Birth": "25th May 2004",
+    "Place of Birth": "Mazarron",
+    "Country": "Spain",
+    "Races": "19",
+    "Poles": "1",
+    "image":"https://cdn.crash.net/2025-01/GnG_1198807_HiRes.jpg?width=400"
+  },
+  "Brad Binder": {
+    "Full Name": "Brad Binder",
+    "Date of Birth": "11th August 1995",
+    "Place of Birth": "Potchefstroom",
+    "Country": "South Africa",
+    "Races": "92",
+    "Wins": "2",
+    "image":"https://cdn.crash.net/2025-01/GnG_1198815_HiRes.jpg?width=400"
+  },
+  "Enea Bastianini": {
+    "Full Name": "Enea Bastianini",
+    "Date of Birth": "30th December 1997",
+    "Place of Birth": "Rimini",
+    "Country": "Italy",
+    "Races": "70",
+    "Poles": "2",
+    "Wins": "7",
+    "image":"https://cdn.crash.net/2025-01/GnG_1199067_HiRes.jpg?width=400"
+  },
+  "Maverick Vinales": {
+    "Full Name": "Maverick Vinales",
+    "Date of Birth": "12th January 1995",
+    "Place of Birth": "Figueres",
+    "Country": "Spain",
+    "Races": "180",
+    "Poles": "15",
+    "Wins": "10",
+    "image":"https://cdn.crash.net/2025-01/GnG_1199052_HiRes.jpg?width=400"
+  },
+  "Raul Fernandez": {
+    "Full Name": "Raul Fernandez",
+    "Date of Birth": "23rd October 2000",
+    "Place of Birth": "Madrid",
+    "Country": "Spain",
+    "Races": "57",
+    "image":"https://cdn.crash.net/2025-01/GnG_1190243_HiRes.jpg?width=400"
+  },
+  "Ai Ogura": {
+    "Full Name": "Ai Ogura",
+    "Date of Birth": "26th January 2001",
+    "Place of Birth": "Tokyo",
+    "Country": "Japan",
+    "image":"https://cdn.crash.net/2025-01/GnG_1198684_HiRes.jpg?width=400"
+  }
+}
